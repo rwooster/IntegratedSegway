@@ -1,0 +1,51 @@
+FlashPro
+Version: 11.0.0.23
+Release: v11.0
+
+Software Version: 11.0.0.23
+PDB file
+'C:\Users\rwooster\Documents\IntegratedSegway\designer\impl1\controller_fp\controller.pdb' has
+been loaded successfully.
+DESIGN : controller;  CHECKSUM : DAC2;  PDB_VERSION : 1.8
+Driver : 3.0.0 build 1
+programmer '80076' : FlashPro3
+Opened
+'C:/Users/rwooster/Documents/IntegratedSegway/designer/impl1/controller_fp/controller.pro'
+The 'open_project' command succeeded.
+The 'set_programming_file' command succeeded.
+The 'set_device_type' command succeeded.
+The 'set_device_package' command succeeded.
+Info: Adding Flash Memory data from file
+      C:\Users\rwooster\Documents\IntegratedSegway\component\work\controller_MSS\MSS_ENVM_0\MSS\
+      _ENVM_0.efc.
+Info: Adding FPGA Array data from file
+      C:\Users\rwooster\Documents\IntegratedSegway\designer\impl1\controller.fdb.
+PDB file
+'C:\Users\rwooster\Documents\IntegratedSegway\designer\impl1\controller_fp\controller.pdb' has
+been loaded successfully.
+DESIGN : controller;  CHECKSUM : DAC2;  PDB_VERSION : 1.8
+The 'update_programming_file' command succeeded.
+The 'set_programming_action' command succeeded.
+programmer '80076' : Scan Chain...
+Warning: programmer '80076' : Vpump has been selected on programmer AND an externally provided
+         Vpump has also been detected. Using externally provided Vpump voltage source.
+programmer '80076' : Scan Chain PASSED.
+programmer '80076' : Executing action PROGRAM
+programmer '80076' : EXPORT FSN[48] = 0114ab40787c
+programmer '80076' : Erase ...
+programmer '80076' : Completed erase
+programmer '80076' : EXPORT CHECKSUM: [16] = dac2
+programmer '80076' : Programming FPGA Array
+programmer '80076' : Verifying FPGA Array
+programmer '80076' :         Verifying FPGA Array -- pass
+programmer '80076' : Program System Init and Boot Clients...
+programmer '80076' : Verify System Init and Boot Clients...
+programmer '80076' : Finished: Sat Dec 07 19:31:34 2013 (Elapsed time 00:00:40)
+programmer '80076' : Executing action PROGRAM PASSED.
+
+                        o - o - o - o - o - o
+
+The 'run_selected_actions' command succeeded.
+Project saved.
+The 'save_project' command succeeded.
+Project closed.

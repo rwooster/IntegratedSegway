@@ -1,0 +1,25 @@
+********************************************************************
+                            Global Usage Report
+********************************************************************
+  
+Product: Designer
+Release: v11.0
+Version: 11.0.0.23
+Date: Sat Dec 07 13:23:38 2013
+Design Name: controller  Family: SmartFusion  Die: A2F200M3F  Package: 484 FBGA
+Design State: Post-Layout
+
+The following nets have been routed to a chip global resource:
+
+    Fanout            Name
+    ----------------------
+    228               Net   : FAB_CLK
+                      Driver: controller_MSS_0/MSS_CCC_0/I_MSSCCC/U_TILE1
+    54                Net   : servo_left_0.servo_left_edit
+                      Driver: I_170/U_CLKSRC/U_GL
+    54                Net   : servo_right_0.servo_right_edit
+                      Driver: I_171/U_CLKSRC/U_GL
+
+
+
+

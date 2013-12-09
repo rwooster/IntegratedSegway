@@ -1,0 +1,22 @@
+#===========================================================
+# Created by Actel SmartDesign Fri Dec 06 19:45:43 2013
+#
+# Syntax: 
+# ------- 
+#
+# memmap    resource_name base_address;
+#
+# write     width resource_name byte_offset data;
+# read      width resource_name byte_offset;
+# readcheck width resource_name byte_offset data;
+#
+#===========================================================
+
+#-----------------------------------------------------------
+# Memory Map
+# Define name and base address of each resource.
+#-----------------------------------------------------------
+
+memmap read_0 0x40050000;
+memmap servo_left_0 0x40050100;
+memmap servo_right_0 0x40050200;

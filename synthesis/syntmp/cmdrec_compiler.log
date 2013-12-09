@@ -1,0 +1,20 @@
+C:\Microsemi\Libero_v11.0\Synopsys\synplify_G201209MSP1\bin64\c_ver.exe  -osyn  C:\Users\rwooster\Documents\IntegratedSegway\synthesis\synwork\controller_compiler.srs  -top  controller  -prodtype  synplify_pro  -nram -fixsmult   -divnmod -I C:\Users\rwooster\Documents\IntegratedSegway\synthesis\  -I C:\Microsemi\Libero_v11.0\Synopsys\synplify_G201209MSP1\lib  -v2001  -devicelib  C:\Microsemi\Libero_v11.0\Synopsys\synplify_G201209MSP1\lib\proasic\smartfusion.v  -encrypt  -pro  -dmgen  C:\Users\rwooster\Documents\IntegratedSegway\synthesis\dm  -ll 2000   -ui -fid2 -ram -sharing on  -autosm -lib work C:\Users\rwooster\Documents\IntegratedSegway\component\work\controller_MSS\mss_tshell.v -lib work C:\Users\rwooster\Documents\IntegratedSegway\component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.v -lib work C:\Users\rwooster\Documents\IntegratedSegway\component\work\controller_MSS\MSS_CCC_0\controller_MSS_tmp_MSS_CCC_0_MSS_CCC.v -lib work C:\Users\rwooster\Documents\IntegratedSegway\component\work\controller_MSS\controller_MSS.v -lib work C:\Users\rwooster\Documents\IntegratedSegway\hdl\disable.v -lib work C:\Users\rwooster\Documents\IntegratedSegway\hdl\poll.v -lib work C:\Users\rwooster\Documents\IntegratedSegway\hdl\read.v -lib work C:\Users\rwooster\Documents\IntegratedSegway\hdl\servo_left.v -lib work C:\Users\rwooster\Documents\IntegratedSegway\hdl\servo_right.v -lib COREAPB3_LIB C:\Users\rwooster\Documents\IntegratedSegway\component\Actel\DirectCore\CoreAPB3\4.0.100\rtl\vlog\core_obfuscated\coreapb3_muxptob3.v -lib COREAPB3_LIB C:\Users\rwooster\Documents\IntegratedSegway\component\Actel\DirectCore\CoreAPB3\4.0.100\rtl\vlog\core_obfuscated\coreapb3_iaddr_reg.v -lib COREAPB3_LIB C:\Users\rwooster\Documents\IntegratedSegway\component\Actel\DirectCore\CoreAPB3\4.0.100\rtl\vlog\core_obfuscated\coreapb3.v -lib work C:\Users\rwooster\Documents\IntegratedSegway\component\work\controller\controller.v -loga  C:\Users\rwooster\Documents\IntegratedSegway\synthesis\controller.srr 
+rc:1 success:1
+C:\Users\rwooster\Documents\IntegratedSegway\synthesis\synwork\controller_compiler.srs|o|1386440542|60783
+C:\Microsemi\Libero_v11.0\Synopsys\synplify_G201209MSP1\lib\proasic\smartfusion.v|i|1360942192|72817
+C:\Users\rwooster\Documents\IntegratedSegway\component\work\controller_MSS\mss_tshell.v|i|1386093292|12226
+C:\Users\rwooster\Documents\IntegratedSegway\component\Actel\SmartFusionMSS\MSS\2.5.106\mss_comps.v|i|1358366554|11243
+C:\Users\rwooster\Documents\IntegratedSegway\component\work\controller_MSS\MSS_CCC_0\controller_MSS_tmp_MSS_CCC_0_MSS_CCC.v|i|1386093291|2888
+C:\Users\rwooster\Documents\IntegratedSegway\component\work\controller_MSS\controller_MSS.v|i|1386439158|21333
+C:\Users\rwooster\Documents\IntegratedSegway\hdl\disable.v|i|1386093934|793
+C:\Users\rwooster\Documents\IntegratedSegway\hdl\poll.v|i|1385048396|5333
+C:\Users\rwooster\Documents\IntegratedSegway\hdl\read.v|i|1385492046|4014
+C:\Users\rwooster\Documents\IntegratedSegway\hdl\servo_left.v|i|1385492046|1112
+C:\Users\rwooster\Documents\IntegratedSegway\hdl\servo_right.v|i|1385492046|1116
+C:\Users\rwooster\Documents\IntegratedSegway\component\Actel\DirectCore\CoreAPB3\4.0.100\rtl\vlog\core_obfuscated\coreapb3_muxptob3.v|i|1365523903|6738
+C:\Users\rwooster\Documents\IntegratedSegway\component\Actel\DirectCore\CoreAPB3\4.0.100\rtl\vlog\core_obfuscated\coreapb3_iaddr_reg.v|i|1365523903|3312
+C:\Users\rwooster\Documents\IntegratedSegway\component\Actel\DirectCore\CoreAPB3\4.0.100\rtl\vlog\core_obfuscated\coreapb3.v|i|1365523903|32421
+C:\Users\rwooster\Documents\IntegratedSegway\component\work\controller\controller.v|i|1386439158|16934
+C:\Users\rwooster\Documents\IntegratedSegway\synthesis\controller.srr|o|1386440542|21605
+C:\Microsemi\Libero_v11.0\Synopsys\synplify_G201209MSP1\bin64\c_ver.exe|i|1361373522|5587456
+C:\Microsemi\Libero_v11.0\Synopsys\synplify_G201209MSP1\bin\c_ver.exe|i|1361373516|2088448
